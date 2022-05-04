@@ -1,0 +1,48 @@
+body {
+    background-color: gold;
+}
+
+h1 {
+    color: lawngreen;
+}
+
+section {
+    height: 350px;
+    width: 100%;
+    background-color: red;
+}
+
+section article {
+    height: 200px;
+    width: 100%;
+    background-color: cadetblue;
+}
+
+section h3 {
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+}
+
+section p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: green;
+}
+
+div {
+    background-color: pink;
+}
+
+div h2 {
+    color: blueviolet;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+div p {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+/*# sourceMappingURL=estilo.css.map */

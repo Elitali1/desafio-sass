@@ -1,0 +1,42 @@
+body{
+    background-color: gold;
+}
+h1{
+    color: lawngreen;
+}
+section{
+    height: 350px;
+    width: 100%;
+    background-color: red;
+
+    article{
+        height: 200px;
+        width: 100%;
+        background-color: cadetblue;
+    }
+    h3{
+        text-align: center;
+        color: blue;
+        font-family: cursive;
+    }
+    p{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 30px;
+        color: green;
+    }
+}
+div{
+    background-color: pink;
+    
+    h2{
+        color: blueviolet;
+        font-family: cursive;
+        font-size: 30px;
+
+    }
+    p{
+        color: red;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;
+        }
+}
